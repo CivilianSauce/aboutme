@@ -1,2 +1,0 @@
-# aboutme
-This is fiction
